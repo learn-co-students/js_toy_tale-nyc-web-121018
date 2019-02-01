@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 20
     },
     {
       "id": 2,
@@ -47,6 +47,48 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Pikachu",
+      "image": "http://www.bitmarts.com/wp-content/uploads/2018/02/81SXy7bCL._SL1500_.jpg",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "PikachuTWO",
+      "image": "http://www.bitmarts.com/wp-content/uploads/2018/02/81SXy7bCL._SL1500_.jpg",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "PikachuTHREE",
+      "image": "http://www.bitmarts.com/wp-content/uploads/2018/02/81SXy7bCL._SL1500_.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "PikachuFOUR",
+      "image": "http://www.bitmarts.com/wp-content/uploads/2018/02/81SXy7bCL._SL1500_.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "PikachuFIVE",
+      "image": "http://www.bitmarts.com/wp-content/uploads/2018/02/81SXy7bCL._SL1500_.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Elmo",
+      "image": "https://www.gannett-cdn.com/presto/2018/09/17/USAT/7355cef5-ddbc-464b-98e9-d4d3e58f400e-CH_4_Elmo.jpg",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "ElmoTWO",
+      "image": "https://www.gannett-cdn.com/presto/2018/09/17/USAT/7355cef5-ddbc-464b-98e9-d4d3e58f400e-CH_4_Elmo.jpg",
+      "likes": 0,
+      "id": 15
     }
   ]
 }
