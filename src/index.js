@@ -53,7 +53,7 @@ function showToys(toys) {
     `<div class="card">
     <h2>${toy.name}</h2>
     <img src=${toy.image} class="toy-avatar" />
-    <p>${toy.likes} Likes </p>
+    <p id=like-id-${toy.id}>${toy.likes} Likes </p>
     <button class="like-btn">Like <3</button>
   </div>`
   }
@@ -120,11 +120,11 @@ toyCollection.addEventListener('click',function(event){
         .then(function(response){
           return response.json()
         }).then(function(response){
-
-
+        let likeButton = document.querySelector(`#like-id-${response.id}`)
+        console.log(likeButton);
+        likeButton.innerText =
+        `${response.likes} Likes`
         })
-
-
       } //end of if
     }
 
