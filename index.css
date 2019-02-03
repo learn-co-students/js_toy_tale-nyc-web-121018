@@ -19,6 +19,13 @@ body {
 
 #toy-collection {
   margin: 2rem;
+  content: center;
+}
+
+
+#toy-container {
+  margin: 2rem;
+  justify-content: center;
 }
 
 .card {

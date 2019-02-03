@@ -4,7 +4,7 @@
       "id": 1,
       "name": "Woody",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
-      "likes": 5
+      "likes": 16
     },
     {
       "id": 2,
@@ -47,6 +47,18 @@
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
       "likes": -2
+    },
+    {
+      "name": "Diane Korongy",
+      "image": "https://fortunedotcom.files.wordpress.com/2016/02/screen-shot-2016-02-01-at-8-36-43-pm.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Prospector",
+      "image": "https://vignette.wikia.nocookie.net/pixar/images/5/57/7D156786-C8C4-405A-9077-4BF9ED7944F2.png/revision/latest?cb=20181126205811",
+      "likes": 5,
+      "id": 10
     }
   ]
 }
