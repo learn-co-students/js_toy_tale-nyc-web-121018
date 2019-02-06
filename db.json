@@ -10,13 +10,11 @@
       "id": 2,
       "name": "Buzz Lightyear",
       "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
-      "likes": 8
+      "likes": "12"
     },
     {
-      "id": 3,
-      "name": "Mr. Potato Head",
-      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
-      "likes": 3
+      "likes": 5,
+      "id": 3
     },
     {
       "id": 4,
@@ -34,7 +32,7 @@
       "id": 6,
       "name": "Bo Peep",
       "image": "http://4.bp.blogspot.com/_OZHbJ8c71OM/Sog43CMFX2I/AAAAAAAADEs/0AKX0XslD4g/s400/bo.png",
-      "likes": 2
+      "likes": 5
     },
     {
       "id": 7,
@@ -46,7 +44,79 @@
       "id": 8,
       "name": "Little Green Men",
       "image": "http://www.pngmart.com/files/3/Toy-Story-Alien-PNG-File.png",
-      "likes": -2
+      "likes": 5
+    },
+    {
+      "name": "Jessie",
+      "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Jessie_%28Toy_Story%29.png",
+      "likes": 0,
+      "id": 9
+    },
+    {
+      "name": "Lotso",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/a/a3/LotsoHugginBear.png",
+      "likes": 0,
+      "id": 10
+    },
+    {
+      "name": "Zurg",
+      "image": "https://cdn.instructables.com/FTN/WJ6Q/HIZD49VK/FTNWJ6QHIZD49VK.LARGE.jpg",
+      "likes": 0,
+      "id": 11
+    },
+    {
+      "name": "Zurg 2",
+      "image": "https://cdn.instructables.com/FTN/WJ6Q/HIZD49VK/FTNWJ6QHIZD49VK.LARGE.jpg",
+      "likes": 0,
+      "id": 12
+    },
+    {
+      "name": "Bullseye",
+      "image": "https://static.giantbomb.com/uploads/scale_small/13/135472/2414922-bullseye_toy_story_8037414_334_400.jpg",
+      "likes": 0,
+      "id": 13
+    },
+    {
+      "name": "Lotso Huggin Bear",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/a/a3/LotsoHugginBear.png",
+      "likes": 0,
+      "id": 14
+    },
+    {
+      "name": "Lotso",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/a/a3/LotsoHugginBear.png",
+      "likes": 0,
+      "id": 15
+    },
+    {
+      "name": "Lotso",
+      "image": "https://vignette.wikia.nocookie.net/disney/images/a/a3/LotsoHugginBear.png",
+      "likes": 0,
+      "id": 16
+    },
+    {
+      "name": "Buzz",
+      "image": "http://www.pngmart.com/files/6/Buzz-Lightyear-PNG-Transparent-Picture.png",
+      "likes": 0,
+      "id": 17
+    },
+    {
+      "name": "Woody",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "likes": 0,
+      "id": 18
+    },
+    {
+      "name": "Woody",
+      "image": "http://www.pngmart.com/files/3/Toy-Story-Woody-PNG-Photos.png",
+      "likes": 0,
+      "id": 19
+    },
+    {
+      "name": "Mr. Potato Head",
+      "image": "https://vignette.wikia.nocookie.net/universe-of-smash-bros-lawl/images/d/d8/Mr-potato-head-toy-story.gif/revision/latest?cb=20151129131217",
+      "likes": 5,
+      "id": 20
     }
   ]
 }
