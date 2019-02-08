@@ -78,7 +78,7 @@
       "likes": 15,
       "id": 10,
       "capacity": 20,
-      "toys_sold": 4
+      "toys_sold": 5
     },
     {
       "name": "Sid ",
@@ -93,7 +93,7 @@
       "image": "https://upload.wikimedia.org/wikipedia/en/8/87/Jessie_%28Toy_Story%29.png",
       "likes": 5,
       "capacity": 20,
-      "toys_sold": null,
+      "toys_sold": 2,
       "id": 12
     }
   ]

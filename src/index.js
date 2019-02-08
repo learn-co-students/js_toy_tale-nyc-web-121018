@@ -129,7 +129,7 @@ function fetchToys(){
 // if toys sold out
       if (e.target.className === 'buy-btn'){
         let currentNum = parseInt(e.target.previousElementSibling.innerText)
-        if (currentNum == 0){
+        if (currentNum >= 0){
           e.target.previousElementSibling.innerText = "Sold Out!"
           alert("Sold Out!")
         }
