@@ -19,12 +19,19 @@ body {
 
 #toy-collection {
   margin: 2rem;
+  content: center;
+}
+
+
+#toy-container {
+  margin: 2rem;
+  justify-content: center;
 }
 
 .card {
   text-align: center;
   border: grey solid 1px;
-  padding: 1rem;
+  padding: 2rem;
   width: 15rem;
   height: 25rem;
   display: inline-grid;
